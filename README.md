@@ -5,6 +5,7 @@
 -private / public
 -gitignore
 -comit de base
-### faire un commit:
+## faire un commit:
 -des modifications
 -utilisateur / emprunte
+## manipulation ex commit
